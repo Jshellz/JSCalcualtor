@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize_all">35sp</dimen>
+    <dimen name="margin_val">16dp</dimen>
+    <dimen name="margin_end">88dp</dimen>
+    <dimen name="height_erase">109dp</dimen>
+    <dimen name="guide_Line_div">200dp</dimen>
+    <dimen name="guide_line_end">101dp</dimen>
+    <dimen name="all_margin">5dp</dimen>
+    <dimen name="texSize_all">20sp</dimen>
+    <dimen name="layout_marginEnd">98dp</dimen>
+    <dimen name="layout_marginEnd_erase">14dp</dimen>
+</resources>
